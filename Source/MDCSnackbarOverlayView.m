@@ -18,8 +18,8 @@
 
 #import <MDFInternationalization.h>
 
-#import "../MDCSnackbarError.h"
-#import "../MDCSnackbarMessage.h"
+#import "MDCSnackbarError.h"
+#import "MDCSnackbarMessage.h"
 #import "MaterialAnimationTiming.h"
 #import "MaterialAvailability.h"
 #import "MDCSnackbarMessageInternal.h"
