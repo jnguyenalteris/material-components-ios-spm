@@ -18,10 +18,10 @@
 #import <MotionAnimator.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import "private/MDCActivityIndicator+Private.h"
-#import "private/MDCActivityIndicatorMotionSpec.h"
-#import "private/MaterialActivityIndicatorStrings.h"
-#import "private/MaterialActivityIndicatorStrings_table.h"
+#import "MDCActivityIndicator+Private.h"
+#import "MDCActivityIndicatorMotionSpec.h"
+#import "MaterialActivityIndicatorStrings.h"
+#import "MaterialActivityIndicatorStrings_table.h"
 #import "MDCActivityIndicatorDelegate.h"
 #import "MaterialPalettes.h"
 #import "MaterialApplication.h"
