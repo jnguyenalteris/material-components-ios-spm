@@ -14,10 +14,10 @@
 
 #import "MDCAlertController+Customize.h"
 
-#import "private/MDCAlertActionManager.h"
-#import "private/MDCAlertControllerView+Private.h"
-#import "private/MaterialDialogsStrings.h"
-#import "private/MaterialDialogsStrings_table.h"
+#import "MDCAlertActionManager.h"
+#import "MDCAlertControllerView+Private.h"
+#import "MaterialDialogsStrings.h"
+#import "MaterialDialogsStrings_table.h"
 #import "MaterialDialogs.h"
 #import "MaterialElevation.h"
 #import "MaterialShadowElevations.h"

@@ -14,7 +14,7 @@
 
 #import "MDCDialogPresentationController.h"
 
-#import "private/MDCDialogShadowedView.h"
+#import "MDCDialogShadowedView.h"
 #import "MDCDialogPresentationControllerDelegate.h"
 #import "MaterialShadowElevations.h"
 #import "MaterialKeyboardWatcher.h"

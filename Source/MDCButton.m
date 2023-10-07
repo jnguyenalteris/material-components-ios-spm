@@ -14,7 +14,7 @@
 
 #import "MDCButton.h"
 
-#import "private/MDCButton+Subclassing.h"
+#import "MDCButton+Subclassing.h"
 #import "MaterialElevation.h"
 #import "MaterialInk.h"
 #import "MaterialRipple.h"
@@ -1022,7 +1022,7 @@ static BOOL gEnablePerformantShadow = NO;
 
 /** Returns YES if the color is not transparent and is a "dark" color. */
 - (BOOL)isDarkColor:(UIColor *)color {
-  // TODO: have a components/private/ColorCalculations/MDCColorCalculations.h|m
+  // TODO: have a components/ColorCalculations/MDCColorCalculations.h|m
   //  return ![self isTransparentColor:color] && [QTMColorGroup luminanceOfColor:color] < 0.5;
   return ![self isTransparentColor:color];
 }
