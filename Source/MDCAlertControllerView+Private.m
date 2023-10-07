@@ -16,7 +16,7 @@
 #import "MDCAlertControllerView+Private.h"
 
 #import "MaterialShadowElevations.h"
-#import <MDFInternationalization/MDFInternationalization.h>
+#import "MDFInternationalization.h"
 
 #import "MaterialButtons.h"
 #import "MaterialDialogs.h"
