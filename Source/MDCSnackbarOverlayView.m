@@ -16,7 +16,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <MDFInternationalization/MDFInternationalization.h>
+#import <MDFInternationalization.h>
 
 #import "../MDCSnackbarError.h"
 #import "../MDCSnackbarMessage.h"
